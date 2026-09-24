@@ -1,0 +1,12 @@
+# Datos individuales: no anonimizados, no se pueden compartir
+*.rds
+!Nuevos_resultados/Resultados/*.rds
+*.csv.gz
+Data/
+# Objetos de modelos (guardan copia de los datos)
+Nuevos_resultados/Modelos/*.rds
+Nuevos_resultados/Modelos/revision/
+.Rhistory
+.RData
+.Rproj.user/
+.DS_Store

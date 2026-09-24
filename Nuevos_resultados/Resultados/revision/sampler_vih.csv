@@ -1,0 +1,5 @@
+model,divergencias,max_treedepth,min_ebfmi
+BIC original,0,0,1.0133851387626187
+BIC intercepto d<c3><a9>bil,0,0,0.9737172473884639
+BIC vaga,0,0,0.8914709751256235
+BIC Se/Sp inciertas,0,0,0.9713611770675987

@@ -1,0 +1,4 @@
+model,r0,r1,loglik,convergencia,hessiana_def_pos
+Liu equal (libre),-0.052406928813466834,-0.052406928813466834,-2768.8641654217076,false convergence (8),TRUE
+Liu equal (restr.),3.7142585729746977e-10,3.7142585729746977e-10,-2780.3521561828056,relative convergence (4),TRUE
+Liu fp.fn (restr.),2.6644857849201873e-66,0.49999983179522295,-2775.177622290515,relative convergence (4),FALSE
