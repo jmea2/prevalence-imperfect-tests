@@ -1,0 +1,37 @@
+{
+  "title": "prevalence-imperfect-tests: R and Stan code and aggregate results for prevalence estimation with imperfect diagnostic tests",
+  "upload_type": "software",
+  "description": "R and Stan code and aggregate results for the article 'Prevalence estimation with imperfect diagnostic tests: a comparison of frequentist and Bayesian logistic regression methods with misclassification correction using cross-sectional screening data'. The code compares standard logistic regression with Rogan-Gladen correction, the misclassification model of Liu and Zhang, and Bayesian logistic regression with external or internal correction, including prior sensitivity analyses and convergence diagnostics. Individual-level data are not included because they are not anonymized; they are available from the authors on reasonable request with the permission of the data owner.",
+  "creators": [
+    {
+      "name": "Estrada Alvarez, Jorge Mario",
+      "affiliation": "Caja de Compensación Familiar de Risaralda - Salud Comfamiliar",
+      "orcid": "0000-0001-8760-8147"
+    },
+    {
+      "name": "García Arias, Hernán Felipe",
+      "affiliation": "Universidad de Antioquia",
+      "orcid": "0000-0002-2814-8838"
+    },
+    {
+      "name": "Alonso-Montero, Miguel Ángel",
+      "affiliation": "Universidad de Granada",
+      "orcid": "0000-0002-1214-9035"
+    },
+    {
+      "name": "Luna del Castillo, Juan de Dios",
+      "affiliation": "Universidad de Granada",
+      "orcid": "0000-0002-1854-4968"
+    }
+  ],
+  "license": "MIT",
+  "keywords": [
+    "prevalence estimation",
+    "misclassification",
+    "logistic regression",
+    "Bayesian inference",
+    "Rogan-Gladen estimator",
+    "HIV",
+    "syphilis"
+  ]
+}
